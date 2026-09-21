@@ -6,7 +6,9 @@ A satirical Oregon Trail prototype: GMT-800s, shade-tree mechanics, and unique w
 
 ## Play
 
-Open `index.html` in a browser, or from this folder:
+Live: [https://clibbins-trail.vercel.app](https://clibbins-trail.vercel.app)
+
+Or open `index.html` in a browser, or from this folder:
 
 ```bash
 python3 -m http.server 8765
